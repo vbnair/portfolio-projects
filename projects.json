@@ -51,8 +51,8 @@
     },
     {
       "id": "iot-dashboard",
-      "title": "iot-dashboard"",
-      "description": "A single-page application (SPA) IoT-dashboard".",
+      "title": "iot-dashboard",
+      "description": "A single-page application (SPA) IoT-dashboard.",
       "tags": ["Data", "SPA", "AI", "Iot"],
       "stack": ["React", "Google Places API"],
       "highlights": ["Location-based search", "Google Maps integration"],
