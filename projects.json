@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "id": "skillur",
+      "title": "skillur.com",
+      "description": "Competence creation portal that empowers individuals to craft and amplify your abilities ensuring to stand out in a competitive job market.",
+      "tags": ["Full-stack", "Web App"],
+      "stack": ["Next.js", "TypeScript"],
+      "highlights": ["User authentication", "Dashboard analytics"],
+      "links": {
+        "live": "https://www.skillur.com/",
+        "github": "https://github.com/user/repo"
+      },
+      "image": {
+        "src": "/screenshot_skillur.png",
+        "alt": "Skillur.com screenshot"
+      },
+      "featured": true
+    },
+    {
+      "id": "newsapp",
+      "title": "newsApp",
+      "description": "A simple React app that fetches & displays the latest news headlines using the News API.",
+      "tags": ["Frontend", "React"],
+      "stack": ["React", "News API"],
+      "highlights": ["Real-time news", "Category filtering"],
+      "links": {
+        "github": "https://github.com/vbnair/newsApp"
+      },
+      "image": {
+        "src": "/proj-3-newsApp.png",
+        "alt": "News App screenshot"
+      },
+      "featured": true
+    },
+    {
+      "id": "restaurant-finder",
+      "title": "restaurantFinder",
+      "description": "A single-page application (SPA) to find nearby restaurants based on their current location or a selected place using the Google Places API.",
+      "tags": ["Frontend", "SPA", "AI"],
+      "stack": ["React", "Google Places API"],
+      "highlights": ["Location-based search", "Google Maps integration"],
+      "links": {
+        "github": "https://github.com/vbnair/restaurantFinder"
+      },
+      "image": {
+        "src": "/restaurantresultsPage.png",
+        "alt": "Restaurant Finder screenshot"
+      },
+      "featured": true
+    }
+  ],
+  "lastUpdated": "2024-12-17T00:00:00Z"
+}
+
