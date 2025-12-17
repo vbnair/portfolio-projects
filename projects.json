@@ -4,7 +4,7 @@
       "id": "skillur",
       "title": "skillur.com",
       "description": "Competence creation portal that empowers individuals to craft and amplify your abilities ensuring to stand out in a competitive job market.",
-      "tags": ["Full-stack", "Web App"],
+      "tags": ["Full-stack", "Web App", "iot"],
       "stack": ["Next.js", "TypeScript"],
       "highlights": ["User authentication", "Dashboard analytics"],
       "links": {
@@ -21,7 +21,7 @@
       "id": "newsapp",
       "title": "newsApp",
       "description": "A simple React app that fetches & displays the latest news headlines using the News API.",
-      "tags": ["Frontend", "React"],
+      "tags": ["Frontend", "React", "DevOps"],
       "stack": ["React", "News API"],
       "highlights": ["Real-time news", "Category filtering"],
       "links": {
