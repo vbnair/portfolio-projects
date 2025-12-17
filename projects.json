@@ -48,6 +48,22 @@
         "alt": "Restaurant Finder screenshot"
       },
       "featured": true
+    },
+    {
+      "id": "iot-dashboard",
+      "title": "iot-dashboard"",
+      "description": "A single-page application (SPA) IoT-dashboard".",
+      "tags": ["Data", "SPA", "AI", "Iot"],
+      "stack": ["React", "Google Places API"],
+      "highlights": ["Location-based search", "Google Maps integration"],
+      "links": {
+        "github": "https://github.com/vbnair/restaurantFinder"
+      },
+      "image": {
+        "src": "/restaurantresultsPage.png",
+        "alt": "Restaurant Finder screenshot"
+      },
+      "featured": true
     }
   ],
   "lastUpdated": "2024-12-17T00:00:00Z"
